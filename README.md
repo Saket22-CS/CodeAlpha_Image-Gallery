@@ -12,7 +12,7 @@ The gallery features four main sections:
 
 ### **Smart Gadgets**: Explore the latest in tech with high-quality images of smart gadgets and accessories.
 
-![Smart Gadgets](smart gadgets.png)
+![Smart Gadgets](smart_gadgets.png)
 
 ### **Wallpapers**: Aesthetic wallpapers ranging from abstract designs to scenic landscapes.
 
